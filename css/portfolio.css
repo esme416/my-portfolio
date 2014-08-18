@@ -87,7 +87,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #fff;
+    color:#FBEDF4;
 }
 
 .navbar-custom .nav li.active {
@@ -121,7 +121,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: #000;
+        background-color:#B3B3B3;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -135,9 +135,9 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: #fff;
-    background: url(../img/overview.jpg) no-repeat bottom center scroll;
-    background-color: #000;
+    color:#FBDEF4;
+    background: url(../img/pink-flowers.jpg) no-repeat bottom center scroll;
+    background-color:#fff ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -177,8 +177,7 @@ a:focus {
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid #fff;
-    border-radius: 35px;
+    border: 2px solid black;
     font-size: 40px;
     color: #fff;
     background: 0 0;
@@ -255,7 +254,7 @@ a:focus {
     height:auto;
     padding: 0;
     color: #fff;
-    background: url(../img/computertable.jpg) no-repeat bottom center scroll;
+    background: url(../img/sunseet.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -275,7 +274,7 @@ a:focus {
 
 #about{
     padding:50px 0 100px 0;
-     background: #18bc9c;
+     background: #C7338C;
 }
 
 @media(min-width:767px) {
@@ -310,7 +309,7 @@ a:focus {
     border: 1px solid #fff;
     outline: 0;
     color: #fff;
-    background-color: #219ab3;
+    background-color: #54EDB8;
 }
 
 ul.banner-social-buttons {
